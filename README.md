@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ahi Bhushan Mahto</h1>
-<h3 align="center">Procrastinator by the day, programmer by the night</h3>
 
 - 🔭 I’m currently working on **improving my basic coding fundamentals**
 
